@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 0076cb13-213f-7583-27a0-449c7f2ec329
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 3e9004ad-aca9-a5be-c48a-2881cf8d082e
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 20
+- identifier: 6d2f04eb-8a5c-c8b9-30f3-ba5006d83d16
+  name: Labs
+  url: /pages/labs
+  weight: 30
+- identifier: 9c84a233-40cf-834c-b76f-84e114f60a02
+  name: Image Gallery
+  url: /pages/image-gallery/
+  weight: 40

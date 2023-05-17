@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ]
+  ],
+  "legacy_uid": "6b37f3cc-1d1a-0b5e-ce03-4b3306be57bc",
+  "instructors": {
+    "content": [
+      "64035f9a-a78c-93a3-4db3-d6034513e534"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ac1586bc-3d2b-67f4-7827-80f48ccca8f2",
+    "website": "5-36-biochemistry-laboratory-spring-2009"
+  },
+  "course_title": "Biochemistry Laboratory",
+  "course_description": "The course, which spans two thirds of a semester, provides students with a research-inspired laboratory experience that introduces standard biochemical techniques in the context of investigating a current and exciting research topic, acquired resistance to the cancer drug Gleevec. Techniques include protein expression, purification, and gel analysis, PCR, site-directed mutagenesis, kinase activity assays, and protein structure viewing.\n\nThis class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives ([URIECA](http://web.mit.edu/chemistry/www/academic/urieca.html)) introduces students to cutting edge research topics in a modular format.\n\n##### Acknowledgments\n\nDevelopment of this course was funded through an HHMI Professors grant to Professor Catherine L. Drennan.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.36",
+  "course_image_thumbnail": {
+    "content": "2ca49c14-2715-a0c7-ebdb-ed4a1187c903",
+    "website": "5-36-biochemistry-laboratory-spring-2009"
+  },
+  "learning_resource_types": [
+    "Image Gallery",
+    "Lecture Notes"
+  ],
+  "site_uid": "a2ab0f18-869c-42cf-9363-5362bf1c22ba",
+  "site_short_id": "5.36-spring-2009",
+  "title": "Course Metadata"
+}
